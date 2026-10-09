@@ -1,0 +1,270 @@
+<!-- 3. Hero Section (Informational & Heritage Focus) -->
+  <section class="relative hero-glow py-16 sm:py-24 border-b border-gray-100 overflow-hidden">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+        
+        <!-- Hero Text -->
+        <div class="lg:col-span-7 text-center lg:text-right space-y-6">
+          <div class="inline-flex items-center gap-2 bg-blue-50 border border-blue-200 text-brand-navy px-4 py-1.5 rounded-full text-xs sm:text-sm font-semibold">
+            <span class="w-2 h-2 rounded-full bg-emerald-500 animate-ping"></span>
+            <span>الاسم الأول والموثوق للأجهزة الكهربائية في الغربية</span>
+          </div>
+
+          <h1 class="text-3xl sm:text-5xl lg:text-6xl font-black text-brand-navy leading-tight tracking-tight">
+            العراقي للأجهزة الكهربائية..
+            <span class="block text-brand-blue mt-2">كل اللي بيتك محتاجه من مكان واحد!</span>
+          </h1>
+
+          <p class="text-base sm:text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto lg:mx-0">
+            أكتر من 55 سنة من الثقة والريادة بدأت من قلب العباسي القديم في المحلة الكبرى سنة 1968. بنوفّرلك تشكيلة متكاملة من أحدث الأجهزة المنزلية الأصلية، وتجهيز بيت العروسة بالكامل بأعلى ضمان وأفضل أسعار وخدمة ما بعد البيع.
+          </p>
+
+          <div class="flex flex-wrap items-center justify-center lg:justify-start gap-4 pt-2">
+            <a href="#branches" class="bg-brand-navy hover:bg-brand-dark text-white px-7 py-3.5 rounded-2xl font-bold text-base shadow-lg shadow-brand-navy/20 transition-all flex items-center gap-2 transform hover:-translate-y-0.5">
+              <i class="fa-solid fa-map-location-dot text-brand-gold"></i>
+              <span>استكشف فروعنا الـ 6</span>
+            </a>
+            <a href="https://wa.me/201099441102?text=مرحباً%20العراقي%20للأجهزة%20الكهربائية" target="_blank" rel="noopener noreferrer" class="bg-emerald-600 hover:bg-emerald-700 text-white px-7 py-3.5 rounded-2xl font-bold text-base shadow-lg shadow-emerald-600/20 transition-all flex items-center gap-2 transform hover:-translate-y-0.5">
+              <i class="fa-brands fa-whatsapp text-lg"></i>
+              <span>تواصل عبر الواتساب</span>
+            </a>
+            <a href="https://eliraqi.com.eg/" target="_blank" rel="noopener noreferrer" class="bg-white hover:bg-gray-50 text-brand-navy border border-gray-300 px-6 py-3.5 rounded-2xl font-semibold text-base transition-all flex items-center gap-2">
+              <i class="fa-solid fa-arrow-up-right-from-square text-xs text-brand-blue"></i>
+              <span>الموقع الرسمي</span>
+            </a>
+          </div>
+
+          <!-- Trust Sub-badge -->
+          <div class="pt-2 flex items-center justify-center lg:justify-start gap-3 text-xs text-gray-500">
+            <span><i class="fa-solid fa-shield-halved text-emerald-600 ml-1"></i> أجهزة أصلية 100% بضمان معتمد</span>
+            <span>•</span>
+            <span><i class="fa-solid fa-truck-fast text-brand-blue ml-1"></i> شحن وتركيب احترافي</span>
+          </div>
+        </div>
+
+        <!-- Hero Visual Showcase / Interactive Badge -->
+        <div class="lg:col-span-5 flex justify-center">
+          <div class="relative w-full max-w-md">
+            <!-- Background Accent Shapes -->
+            <div class="absolute -top-6 -right-6 w-32 h-32 bg-blue-100 rounded-3xl -z-10 rotate-6"></div>
+            <div class="absolute -bottom-6 -left-6 w-32 h-32 bg-amber-100 rounded-3xl -z-10 -rotate-6"></div>
+            
+            <div class="bg-white border border-gray-100 shadow-2xl rounded-3xl p-7 relative overflow-hidden">
+              <div class="flex items-center justify-between border-b border-gray-100 pb-5 mb-6">
+                <div>
+                  <span class="text-xs font-semibold text-gray-400 block">العراقي منذ 1968</span>
+                  <h3 class="text-xl font-bold text-brand-navy">صرح الأجهزة بالمحلة</h3>
+                </div>
+                <div class="w-12 h-12 rounded-2xl bg-brand-light flex items-center justify-center text-brand-blue text-xl font-black">
+                  55+
+                </div>
+              </div>
+
+              <!-- Feature Highlights -->
+              <div class="space-y-4">
+                <div class="flex items-start gap-3.5 p-3 rounded-xl bg-gray-50/80">
+                  <div class="w-9 h-9 rounded-lg bg-blue-100 text-brand-navy flex items-center justify-center shrink-0">
+                    <i class="fa-solid fa-crown text-brand-gold"></i>
+                  </div>
+                  <div>
+                    <h4 class="font-bold text-sm text-brand-navy">3 Brand Shops رسمية</h4>
+                    <p class="text-xs text-gray-500">متاجر حصرية ومعتمدة لـ LG، سامسونج وبيكو</p>
+                  </div>
+                </div>
+
+                <div class="flex items-start gap-3.5 p-3 rounded-xl bg-gray-50/80">
+                  <div class="w-9 h-9 rounded-lg bg-emerald-100 text-emerald-700 flex items-center justify-center shrink-0">
+                    <i class="fa-solid fa-ring"></i>
+                  </div>
+                  <div>
+                    <h4 class="font-bold text-sm text-brand-navy">تجهيز جهاز العروسة كاملاً</h4>
+                    <p class="text-xs text-gray-500">من أصغر جهاز مطبخ لأكبر شاشة وتكييف وثلاجة</p>
+                  </div>
+                </div>
+
+                <div class="flex items-start gap-3.5 p-3 rounded-xl bg-gray-50/80">
+                  <div class="w-9 h-9 rounded-lg bg-amber-100 text-amber-700 flex items-center justify-center shrink-0">
+                    <i class="fa-solid fa-handshake-angle"></i>
+                  </div>
+                  <div>
+                    <h4 class="font-bold text-sm text-brand-navy">خدمة ما بعد البيع ومصداقية</h4>
+                    <p class="text-xs text-gray-500">فريق متخصص يتابع معاك الضمان وراحة بالك أولاً</p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Note -->
+              <div class="mt-6 pt-4 border-t border-gray-100 text-center">
+                <span class="text-xs font-semibold text-gray-400">
+                  <i class="fa-solid fa-circle-info text-blue-500 ml-1"></i> المعرض الاستعراضي - الشراء والتسليم عبر الفروع
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Quick Metrics Ribbon -->
+      <div class="mt-16 bg-white border border-gray-200/80 shadow-lg rounded-2xl p-6 sm:p-8">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-6 text-center divide-y md:divide-y-0 md:divide-x md:divide-x-reverse divide-gray-100">
+          <div class="pt-4 md:pt-0">
+            <div class="text-3xl sm:text-4xl font-black text-brand-navy mb-1">+55</div>
+            <div class="text-xs sm:text-sm font-semibold text-gray-600">عاماً من الخبرة والأصالة</div>
+          </div>
+          <div class="pt-4 md:pt-0">
+            <div class="text-3xl sm:text-4xl font-black text-brand-blue mb-1">6</div>
+            <div class="text-xs sm:text-sm font-semibold text-gray-600">فروع وBrand Shops بالمحلة</div>
+          </div>
+          <div class="pt-4 md:pt-0">
+            <div class="text-3xl sm:text-4xl font-black text-brand-navy mb-1">+35</div>
+            <div class="text-xs sm:text-sm font-semibold text-gray-600">براند عالمي ومحلي معتمد</div>
+          </div>
+          <div class="pt-4 md:pt-0">
+            <div class="text-3xl sm:text-4xl font-black text-emerald-600 mb-1">100%</div>
+            <div class="text-xs sm:text-sm font-semibold text-gray-600">ثقة وضمان الوكلاء المعتمدين</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+
+
+
+كود الخلفية الزرقا
+
+  <!-- 3. Hero Section (Informational & Heritage Focus with Dotted Navy Background) -->
+  <section class="relative py-16 sm:py-24 border-b border-white/10 overflow-hidden text-white" 
+    style="background-color: #17253e; background-image: radial-gradient(rgba(255, 255, 255, 0.22) 1.2px, transparent 1.2px); background-size: 15px 15px;">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+        
+        <!-- Hero Text -->
+        <div class="lg:col-span-7 text-center lg:text-right space-y-6">
+          <div class="inline-flex items-center gap-2 bg-white/10 border border-white/20 text-blue-200 px-4 py-1.5 rounded-full text-xs sm:text-sm font-semibold backdrop-blur-sm">
+            <span class="w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
+            <span>الاسم الأول والموثوق للأجهزة الكهربائية في الغربية</span>
+          </div>
+
+          <h1 class="text-3xl sm:text-5xl lg:text-6xl font-black text-white leading-tight tracking-tight">
+            العراقي للأجهزة الكهربائية..
+            <span class="block text-blue-300 mt-2">كل اللــي بيـتـك مـحتـاجـه في مـكــان واحـــد!</span>
+          </h1>
+
+          <p class="text-base sm:text-lg text-blue-100/90 leading-relaxed max-w-2xl mx-auto lg:mx-0">
+            أكتر من 55 سنة من الثقة والريادة بدأت من قلب العباسي القديم في المحلة الكبرى سنة 1968. بنوفّرلك تشكيلة متكاملة من أحدث الأجهزة المنزلية الأصلية، وتجهيز بيت العروسة بالكامل بأعلى ضمان وأفضل أسعار وخدمة ما بعد البيع.
+          </p>
+
+          <div class="flex flex-wrap items-center justify-center lg:justify-start gap-4 pt-2">
+            <a href="#branches" class="bg-brand-navy hover:bg-brand-blue border border-white/20 text-white px-7 py-3.5 rounded-2xl font-bold text-base shadow-xl shadow-black/20 transition-all flex items-center gap-2 transform hover:-translate-y-0.5">
+              <i class="fa-solid fa-map-location-dot text-brand-gold"></i>
+              <span>استكشف فروعنا الـ 6</span>
+            </a>
+            <a href="https://wa.me/201099441102?text=مرحباً%20العراقي%20للأجهزة%20الكهربائية" target="_blank" rel="noopener noreferrer" class="bg-emerald-600 hover:bg-emerald-700 text-white px-7 py-3.5 rounded-2xl font-bold text-base shadow-xl shadow-emerald-600/30 transition-all flex items-center gap-2 transform hover:-translate-y-0.5">
+              <i class="fa-brands fa-whatsapp text-lg"></i>
+              <span>تواصل عبر الواتساب</span>
+            </a>
+            <a href="https://eliraqi.com.eg/" target="_blank" rel="noopener noreferrer" class="bg-white/10 hover:bg-white hover:text-brand-navy text-white border border-white/30 backdrop-blur-sm px-6 py-3.5 rounded-2xl font-semibold text-base transition-all flex items-center gap-2">
+              <i class="fa-solid fa-arrow-up-right-from-square text-xs text-blue-300"></i>
+              <span>الموقع الرسمي</span>
+            </a>
+          </div>
+
+          <!-- Trust Sub-badge -->
+          <div class="pt-2 flex items-center justify-center lg:justify-start gap-3 text-xs text-gray-300">
+            <span><i class="fa-solid fa-shield-halved text-emerald-400 ml-1"></i> أجهزة أصلية 100% بضمان معتمد</span>
+            <span>•</span>
+            <span><i class="fa-solid fa-truck-fast text-blue-300 ml-1"></i> شحن وتركيب احترافي</span>
+          </div>
+        </div>
+
+        <!-- Hero Visual Showcase / Interactive Badge -->
+        <div class="lg:col-span-5 flex justify-center">
+          <div class="relative w-full max-w-md">
+            <!-- Background Accent Shapes -->
+            <div class="absolute -top-6 -right-6 w-32 h-32 bg-blue-500/20 rounded-3xl -z-10 rotate-6 backdrop-blur-sm"></div>
+            <div class="absolute -bottom-6 -left-6 w-32 h-32 bg-amber-500/20 rounded-3xl -z-10 -rotate-6 backdrop-blur-sm"></div>
+            
+            <div class="bg-white text-gray-900 border border-white/20 shadow-2xl rounded-3xl p-7 relative overflow-hidden">
+              <div class="flex items-center justify-between border-b border-gray-100 pb-5 mb-6">
+                <div>
+                  <span class="text-xs font-semibold text-gray-400 block">العراقي منذ 1968</span>
+                  <h3 class="text-xl font-bold text-brand-navy">صرح الأجهزة بالمحلة</h3>
+                </div>
+                <div class="w-12 h-12 rounded-2xl bg-brand-light flex items-center justify-center text-brand-blue text-xl font-black">
+                  55+
+                </div>
+              </div>
+
+              <!-- Feature Highlights -->
+              <div class="space-y-4">
+                <div class="flex items-start gap-3.5 p-3 rounded-xl bg-gray-50/80">
+                  <div class="w-9 h-9 rounded-lg bg-blue-100 text-brand-navy flex items-center justify-center shrink-0">
+                    <i class="fa-solid fa-crown text-brand-gold"></i>
+                  </div>
+                  <div>
+                    <h4 class="font-bold text-sm text-brand-navy">3 Brand Shops رسمية</h4>
+                    <p class="text-xs text-gray-500">متاجر حصرية ومعتمدة لـ LG، سامسونج وبيكو</p>
+                  </div>
+                </div>
+
+                <div class="flex items-start gap-3.5 p-3 rounded-xl bg-gray-50/80">
+                  <div class="w-9 h-9 rounded-lg bg-emerald-100 text-emerald-700 flex items-center justify-center shrink-0">
+                    <i class="fa-solid fa-ring"></i>
+                  </div>
+                  <div>
+                    <h4 class="font-bold text-sm text-brand-navy">تجهيز جهاز العروسة كاملاً</h4>
+                    <p class="text-xs text-gray-500">من أصغر جهاز مطبخ لأكبر شاشة وتكييف وثلاجة</p>
+                  </div>
+                </div>
+
+                <div class="flex items-start gap-3.5 p-3 rounded-xl bg-gray-50/80">
+                  <div class="w-9 h-9 rounded-lg bg-amber-100 text-amber-700 flex items-center justify-center shrink-0">
+                    <i class="fa-solid fa-handshake-angle"></i>
+                  </div>
+                  <div>
+                    <h4 class="font-bold text-sm text-brand-navy">خدمة ما بعد البيع ومصداقية</h4>
+                    <p class="text-xs text-gray-500">فريق متخصص يتابع معاك الضمان وراحة بالك أولاً</p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Note -->
+              <div class="mt-6 pt-4 border-t border-gray-100 text-center">
+                <span class="text-xs font-semibold text-gray-400">
+                  <i class="fa-solid fa-circle-info text-blue-500 ml-1"></i> المعرض الاستعراضي - الشراء والتسليم عبر الفروع
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Quick Metrics Ribbon -->
+      <div class="mt-16 bg-white text-gray-900 border border-gray-150 shadow-2xl rounded-2xl p-6 sm:p-8">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-6 text-center divide-y md:divide-y-0 md:divide-x md:divide-x-reverse divide-gray-100">
+          <div class="pt-4 md:pt-0">
+            <div class="text-3xl sm:text-4xl font-black text-brand-navy mb-1">+55</div>
+            <div class="text-xs sm:text-sm font-semibold text-gray-600">عاماً من الخبرة والأصالة</div>
+          </div>
+          <div class="pt-4 md:pt-0">
+            <div class="text-3xl sm:text-4xl font-black text-brand-blue mb-1">6</div>
+            <div class="text-xs sm:text-sm font-semibold text-gray-600">فروع وBrand Shops بالمحلة</div>
+          </div>
+          <div class="pt-4 md:pt-0">
+            <div class="text-3xl sm:text-4xl font-black text-brand-navy mb-1">+35</div>
+            <div class="text-xs sm:text-sm font-semibold text-gray-600">براند عالمي ومحلي معتمد</div>
+          </div>
+          <div class="pt-4 md:pt-0">
+            <div class="text-3xl sm:text-4xl font-black text-emerald-600 mb-1">100%</div>
+            <div class="text-xs sm:text-sm font-semibold text-gray-600">ثقة وضمان الوكلاء المعتمدين</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
